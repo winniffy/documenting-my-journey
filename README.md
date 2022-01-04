@@ -17,3 +17,17 @@ a repo of everything i learn daily on my frontend engineering journey.
 - footer
 - list tags (ul, ol, li)
 - more list tags (dl, dt, dd)
+
+**4/01 - html tags**
+- img
+- map
+- area
+- canvas
+- figcaption
+- figure
+- picture
+- svg
+- audio
+- source
+- track
+- video
