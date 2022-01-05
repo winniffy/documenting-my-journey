@@ -31,3 +31,17 @@ a repo of everything i learn daily on my frontend engineering journey.
 - source
 - track
 - video
+
+**5/01 - html tags**
+- form
+- input
+- textarea
+- button
+- select
+- optgroup
+- option
+- fieldset
+- legend
+- datalist
+- output
+- iframe
