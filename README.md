@@ -45,3 +45,15 @@ a repo of everything i learn daily on my frontend engineering journey.
 - datalist
 - output
 - iframe
+
+**5/01 - html tags**
+- table
+- caption
+- th
+- tr
+- td
+- thead
+- tbody
+- tfoot
+- col
+- colgroup
