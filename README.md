@@ -46,7 +46,7 @@ a repo of everything i learn daily on my frontend engineering journey.
 - output
 - iframe
 
-**5/01 - html tags**
+**6/01 - html tags**
 - table
 - caption
 - th
@@ -57,3 +57,9 @@ a repo of everything i learn daily on my frontend engineering journey.
 - tfoot
 - col
 - colgroup
+
+**7/01 - html tags**
+- script, noscript, applet, embed, object, param
+- abbr, address, b, strong, bdi, bdo, blockquote
+- center, cite, code, del, dfn, em, ins, kbd, mark
+- meter, pre, progress, q, samp, small, sub, sup, template, var
