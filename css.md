@@ -14,3 +14,13 @@
 - outline
 - text (color, alignment, decoration, transformation, shadow, spacing)
 - fonts (google fonts)
+
+**12/01**
+- icons
+- links (link, visited, active, hover)
+- list
+- table
+- display
+- max-width
+- positions (static, fixed, absolute, relative, sticky)
+- overflow
