@@ -24,3 +24,17 @@
 - max-width
 - positions (static, fixed, absolute, relative, sticky)
 - overflow
+
+**13/01**
+- float
+- inline-block
+- align
+- combinators (space, <, +)
+- pseudo classes
+- opacity
+- navigation
+- dropdown
+- image gallery
+- image sprites
+- attribute selector
+- forms
