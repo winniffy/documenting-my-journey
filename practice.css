@@ -1,1 +1,47 @@
+div.border-radius{
+  border-radius: 10px;
+  background: blue;
+  width: 200px;
+  height: 200px;
+}
 
+p#border-img{
+  border: 25px solid transparent;
+  border-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Meta_Platforms_Inc._logo.svg/1920px-Meta_Platforms_Inc._logo.svg.png) 30 round;
+  background-color: rgb(231, 201, 146);
+}
+
+div#gradient-tb{
+  height: 200px;
+  background-image: linear-gradient(orange, red);
+  background-image: linear-gradient(65deg, orange, red);
+}
+
+h1#text-shadow{
+  text-shadow: 2px 2px 5px orangered;
+}
+
+div#transition{
+  width: 200px;
+  height: 200px;
+  background: orangered;
+  transition: width 2s;
+}
+
+div#transition:hover {
+  width: 100%;
+  background-image: linear-gradient(to right, orangered, orange);
+}
+
+div.animation{
+  width: 200px;
+  height: 200px;
+  background: blue;
+  animation-name: first;
+  animation-duration: 5s;
+}
+
+@keyframes first {
+  from {background: orange;}
+  to {background: orangered;}
+}
