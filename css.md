@@ -38,3 +38,20 @@
 - image sprites
 - attribute selector
 - forms
+
+**14/01**
+- counters
+- website layout
+- units
+- specificity
+- !important
+- rounded corners (border-radius)
+- border image
+- gradients
+- shadows
+- transitions
+- animations (keyframes)
+- tooltip
+- buttons
+- pagination
+- media queries
