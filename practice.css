@@ -45,3 +45,20 @@ div.animation{
   from {background: orange;}
   to {background: orangered;}
 }
+
+.flex-container{
+  display: flex;
+  background: orangered;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
+
+.flex-container > div {
+  background: #f1f1f1;
+  margin: 10px;   
+  font-size: 25px;
+  width: 100px;
+  text-align: center;
+  line-height: 70px;
+}
