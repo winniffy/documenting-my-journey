@@ -55,3 +55,9 @@
 - buttons
 - pagination
 - media queries
+
+**15/01**
+- flexbox
+- flex container
+- flex items
+- flex responsive
