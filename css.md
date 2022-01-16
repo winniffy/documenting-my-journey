@@ -61,3 +61,15 @@
 - flex container
 - flex items
 - flex responsive
+
+**16/01**
+- responsive
+- grid view
+- media queries
+- images
+- videos
+- frameworks
+- templates
+- grid
+- grid container
+- grid items
