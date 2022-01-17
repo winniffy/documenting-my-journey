@@ -73,3 +73,6 @@
 - grid
 - grid container
 - grid items
+
+**17/01**
+trying to understand flexbox more - read this article: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
