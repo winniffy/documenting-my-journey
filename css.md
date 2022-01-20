@@ -76,3 +76,6 @@
 
 **17/01**
 trying to understand flexbox more - read this article: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
+
+**20/01**
+starting coding a landing page to practice flexbox and other css/html selectors/tags (e-learn landing page)
