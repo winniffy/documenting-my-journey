@@ -82,3 +82,6 @@ starting coding a landing page to practice flexbox and other css/html selectors/
 
 **22/01**
 finished the css section on the udemy course (fe web dev 2022 ultimate course by josh werner)
+
+**23/01**
+understanding grid layout
