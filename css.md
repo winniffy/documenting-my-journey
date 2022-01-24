@@ -85,3 +85,6 @@ finished the css section on the udemy course (fe web dev 2022 ultimate course by
 
 **23/01**
 understanding grid layout
+
+**24/01**
+more work on e-learn landing page
