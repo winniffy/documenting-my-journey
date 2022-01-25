@@ -88,3 +88,7 @@ understanding grid layout
 
 **24/01**
 more work on e-learn landing page
+
+
+**25/01**
+more work on e-learn landing page & grasping grids
