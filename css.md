@@ -92,3 +92,9 @@ more work on e-learn landing page
 
 **25/01**
 more work on e-learn landing page & grasping grids
+
+**25/02**
+battling responsive css:
+
+https://www.youtube.com/watch?v=bn-DQCifeQQ
+https://www.youtube.com/watch?v=0ohtVzCSHqs
