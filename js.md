@@ -2,4 +2,6 @@
 ##started the javascript journey, let's go!
 
 **17/3/2022**
-how to insert js
+- how to insert js
+- js output
+- js statements
